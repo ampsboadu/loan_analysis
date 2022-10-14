@@ -13,3 +13,11 @@ Further wrangling was performed on the include, managing null values in some num
 The exploration was targeted towards discovering the relationship between some loan features against character of it's borrowers. Interestingly, features of the loan such as amount and the status were very correlated with APR and borrowers rate. Increase in borrowers APR and borrowers rate will have decrease in loan amount and most loan in chargedoff and defaulted status exhibit very high median APR and borrowers rate with most them falling above the median value. Also, both loans in defaulted and chargedoff status matched very high against completed loans where both APR and borrowers rate were high.
 
 It was also discovered that loan amounts were always on the rise within the 2013 recording the highest loans in number and compilation of heaviest loans in amount.
+
+
+## Key Insights for Presentation.
+The presentation is cantered on the impact of borrowers annual percentage rate on loan status especially completed loans and chargedoff loans.
+
+The initial chart is generally looked at the distribution of the loan status for understanding of the current state of the loans. The violin chart after that shows the impact of borrowers annual percentage rate on all the loan status. This chart clearly depicts the concentration of borrowers annual percentage rate along the individual loan status.
+
+Finally, the limit the distribution to borrowers annual percentage rate performance within just completed and chargedoff loans.
